@@ -3,5 +3,5 @@
     { "id": 1, "nameCar": "Mersedes", "price": 2000 },
     { "id": 2, "nameCar": "BMW", "price": 2000 },
     { "id": 3, "nameCar": "Lada", "price": 2000 },
-  ],
+  ]
 }
